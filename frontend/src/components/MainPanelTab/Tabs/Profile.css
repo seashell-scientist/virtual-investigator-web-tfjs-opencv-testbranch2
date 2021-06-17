@@ -1,0 +1,29 @@
+h3 {
+    color: black;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.profile-content{
+    display: flex;
+}
+
+.profile-image{
+    max-width: 60%;
+    align-self: flex-start;
+    margin-right: 1em;
+}
+
+.profile-attributes{
+    font-size: 0.75em;
+}
+
+.profile-attribute{
+    display: flex;
+}
+
+.attribute-key{
+    width: 50%;
+}

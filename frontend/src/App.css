@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.mainpanel-container {
+  min-width: 680px;
+  min-height: 840px;
+  max-height: 840px;
+  overflow-y: scroll;
+  overflow-x: scroll;
+}
+
+.main-page {
+  min-height: 900px;
+}
+
+video {
+  width: 600px;
+}
